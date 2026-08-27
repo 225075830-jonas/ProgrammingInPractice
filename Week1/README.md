@@ -1,2 +1,0 @@
-# ProgrammingInPractice
-lab assignment
